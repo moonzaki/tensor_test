@@ -15,6 +15,7 @@ https://github.com/mozilla/geckodriver/releases
 
 Распаковать exe в каталог C:\WebDrivers\ в отдельные папки с названием драйвера
 Пример полного пути до файла:
+
 C:\WebDrivers\chromedriver\chromedriver.exe
 C:\WebDrivers\geckodriver\geckodriver.exe
 
